@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Венсан\Desktop\BankAcc\Source.cpp(124,10): warning C4101: lm: неиспользованная локальная переменная
+C:\Users\Венсан\Desktop\BankAcc\Source.cpp(123,21): warning C4101: k: неиспользованная локальная переменная
+C:\Users\Венсан\Desktop\BankAcc\Source.cpp(124,14): warning C4101: ly: неиспользованная локальная переменная
+C:\Users\Венсан\Desktop\BankAcc\Source.cpp(247,19): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Венсан\Desktop\BankAcc\Source.cpp(268,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Венсан\Desktop\BankAcc\Source.cpp(287,21): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Венсан\Desktop\BankAcc\Source.cpp(297,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Венсан\Desktop\BankAcc\Source.cpp(821,38): warning C4101: pro: неиспользованная локальная переменная
+C:\Users\Венсан\Desktop\BankAcc\Source.cpp(822,13): warning C4101: f2: неиспользованная локальная переменная
+C:\Users\Венсан\Desktop\BankAcc\Source.cpp(822,9): warning C4101: f1: неиспользованная локальная переменная
+C:\Users\Венсан\Desktop\BankAcc\Source.cpp(822,6): warning C4101: f: неиспользованная локальная переменная
+C:\Users\Венсан\Desktop\BankAcc\Source.cpp(962,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  BankAcc.vcxproj -> C:\Users\Венсан\Desktop\BankAcc\x64\Debug\BankAcc.exe

@@ -1,0 +1,2 @@
+C:\Users\Венсан\Desktop\BankAcc\x64\Debug\BankAcc.exe
+C:\Users\Венсан\Desktop\BankAcc\x64\Debug\BankAcc.pdb
